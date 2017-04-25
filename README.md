@@ -1,6 +1,12 @@
 # nepali-gestational-age-calculator
 Using Nepali dates (BS) calculate gestational age from the last menstrual period date.
 
+I use yarn.
+
+After downloading<br>
+`yarn install`<br>
+`yarn start`<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
